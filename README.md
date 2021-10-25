@@ -1,14 +1,14 @@
 <h1>👋 About me</h1>
-Hi, I’m Senior Front-end Developer with solid knowledge and experience with front-end technologies (more than 3 years),
+Hi, I’m Senior Front-end developer with solid knowledge and experience with front-end technologies (more than 3 years),
 also I'm understanding how back-end works (additionally used NodeJS and C# in courses and university).
 Worked in banking and tax project spheres.
 I have good communication skills, mentoring experience and always ready to learn and use new things.
 
 <h1>🛠️ Technical Stack</h1>
 <ul>
-<li>HTML, Css\Scss\Less, JS, JS+Flow, TS</li>
+<li>HTML, CSS\SCSS\Less, JS, JS+Flow, TS</li>
 <li>npm\yarn</li>
-<li>React, JQuery, Nodejs(optional)</li>
+<li>JQuery, React, Nodejs(optional)</li>
 <li>Redux\MobX, Redux-Saga\Thunk, Redux-forms\React-final-form, Storybook, Styled-components</li>
 <li>AntDesign, MaterialUI and different react components like rating-stars, scrollbars and etc.</li>
 <li>Jest, Enzym, Testing Library</li>
