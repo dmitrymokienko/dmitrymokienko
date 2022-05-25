@@ -17,10 +17,10 @@ I have good communication skills, mentoring experience and always ready to learn
 </ul>
 
 <h1>💻 Work experience</h1>
-<li>Jun 2018 - Jul 2020 - Epam Systems, Russia, Saratov</li>
-<li>Jul 2020 - Apr 2021 - UseTech, Russia, Moscow (remote)</li>
-<li>May 2021 - April 2022 - Luxoft, Russia, Moscow (remote)</li>
-<li>April 2022 - Present - Maroo (remote)</li>
+<li>Jun 2018 - Jul 2020 Epam Systems, Russia, Saratov</li>
+<li>Jul 2020 - Apr 2021 UseTech, Russia, Moscow (remote)</li>
+<li>May 2021 - April 2022 Luxoft, Russia, Moscow (remote)</li>
+<li>April 2022 - Present Maroo Ink. (US remote)</li>
 
 <h1>📚 Education and courses</h1>
 <li>Saratov State University, Bachelor, faculty of Computer science and information technologies, specialty: Software and administration of information systems</li>
