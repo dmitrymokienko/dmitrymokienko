@@ -1,4 +1,4 @@
-<h1>👋 About me</h1>
+<h1>About me</h1>
 Hi, I’m Senior Front-end developer with solid knowledge and experience with front-end technologies (more than 3 years),
 also I'm understanding how back-end works (additionally used NodeJS and C# on courses and university).
 Worked in banking and tax project spheres.
