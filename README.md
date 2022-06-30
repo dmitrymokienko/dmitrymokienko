@@ -8,7 +8,7 @@ I have good communication skills, mentoring experience and always ready to learn
 <ul>
 <li>HTML, CSS\SCSS\Less, JS\JS+Flow\TS</li>
 <li>npm\yarn</li>
-<li>webpack/vite</li>
+<li>webpack\vite</li>
 <li>JQuery, React, Nodejs(optional)</li>
 <li>Redux\MobX, Redux-Saga\Thunk, Redux-forms\React-final-form\React-hook-form</li>
 <li>Storybook, Styled-components, Tailwind, postcss</li>
