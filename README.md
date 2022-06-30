@@ -8,7 +8,7 @@ I have good communication skills, mentoring experience and always ready to learn
 <ul>
 <li>HTML, CSS\SCSS\Less, JS\JS+Flow\TS</li>
 <li>JQuery, React, Nodejs(optional)</li>
-<li>Redux\MobX, Redux-Saga\Thunk, Redux-forms\React-final-form\React-hook-form</li>
+<li>Redux\MobX, Redux-Saga\Thunk, Redux-forms\React-final-form\React-hook-form, React-i18next</li>
 <li>Storybook, Styled-components, Tailwind, postcss</li>
 <li>AntDesign, MaterialUI and different react components like rating-stars, scrollbars and etc.</li>
 <li>Jest, Enzyme, Testing Library</li>
