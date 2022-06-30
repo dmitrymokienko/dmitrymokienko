@@ -6,14 +6,16 @@ I have good communication skills, mentoring experience and always ready to learn
 
 <h1>🛠️ Technical Stack</h1>
 <ul>
-<li>HTML, CSS\SCSS\Less, JS, JS+Flow, TS</li>
+<li>HTML, CSS\SCSS\Less, JS\JS+Flow\TS</li>
 <li>npm\yarn</li>
+<li>webpack/vite</li>
 <li>JQuery, React, Nodejs(optional)</li>
-<li>Redux\MobX, Redux-Saga\Thunk, Redux-forms\React-final-form, Storybook, Styled-components</li>
+<li>Redux\MobX, Redux-Saga\Thunk, Redux-forms\React-final-form\React-hook-form</li>
+<li>Storybook, Styled-components, Tailwind, postcss</li>
 <li>AntDesign, MaterialUI and different react components like rating-stars, scrollbars and etc.</li>
 <li>Jest, Enzyme, Testing Library</li>
 <li>REST, WebSocket, WebRTC</li>
-<li>Libs like axios, lodash and etc.</li>
+<li>Libs like axios, lodash, moment\luxon and etc.</li>
 </ul>
 
 <h1>💻 Work experience</h1>
