@@ -9,8 +9,8 @@ I have good communication skills, mentoring experience and always ready to learn
 <li>HTML, CSS\SCSS\Less, JS\JS+Flow\TS</li>
 <li>JQuery, React, Nodejs(optional)</li>
 <li>Redux\MobX, Redux-Saga\Thunk, Redux-forms\React-final-form\React-hook-form, React-i18next</li>
-<li>Storybook, Styled-components, Tailwind, postcss</li>
-<li>AntDesign, MaterialUI and different react components like rating-stars, scrollbars and etc.</li>
+<li>Storybook, Styled-components, Tailwindcss, PostCSS</li>
+<li>AntDesign, MaterialUI and different react components like rc-*, rating-stars, scrollbars and etc.</li>
 <li>Jest, Enzyme, Testing Library</li>
 <li>REST, WebSocket, WebRTC(SDK)</li>
 <li>npm\yarn, webpack\vite</li>
@@ -19,9 +19,9 @@ I have good communication skills, mentoring experience and always ready to learn
 
 <h1>💻 Work experience</h1>
 <li><i>Jun 2018 - Jul 2020</i> <b>Epam Systems</b> (Russia, Saratov)</li>
-<li><i>Jul 2020 - Apr 2021</i> <b>UseTech</b> (Russia, Moscow - remote)</li>
+<li><i>Jul 2020 - Apr 2021</i> <b>Usetech</b> (Russia, Moscow - remote)</li>
 <li><i>May 2021 - April 2022</i> <b>Luxoft</b> (Russia, Moscow - remote)</li>
-<li><i>April 2022</i> - Present <b>Maroo Ink.</b> (US, remote)</li>
+<li><i>April 2022</i> - Present <b>Maroo Ink.</b> (US, New York - remote)</li>
 
 <h1>📚 Education and courses</h1>
 <li>Saratov State University, Bachelor, faculty of Computer science and information technologies, specialty: Software and administration of information systems</li>
