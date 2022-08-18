@@ -1,7 +1,7 @@
 <h1>About me</h1>
 Frontend developer with solid knowledge and experience with front-end technologies (more than 4 years),
-also I'm understanding how back-end works (additionally used NodeJS and C# on courses and university).
-Worked in banking and tax project spheres.
+also I'm understanding how back-end works, additionally used NodeJS (project and external courses) and C# (university).
+Worked in fin-tech projects.
 I have good communication skills, mentoring experience and always ready to learn and use new things.
 
 <h1>🛠️ Technical Stack</h1>
