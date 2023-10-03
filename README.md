@@ -1,5 +1,5 @@
 <h1>About me</h1>
-Frontend developer with solid knowledge and experience with front-end technologies (more than 4 years of production development and more than 6 years at programming),
+Frontend developer with solid knowledge and experience with front-end technologies (more than 5 years of production development and more than 8 years at programming),
 also I'm understanding how back-end works, additionally used NodeJS (project and external courses) and C# (university).
 Worked in fin-tech projects.
 I have good communication skills, mentoring experience and always ready to learn and use new things.
