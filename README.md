@@ -1,20 +1,23 @@
 <h1>About me</h1>
-Frontend developer with solid knowledge and experience with front-end technologies (more than 5 years of production development and more than 8 years at programming),
-also I'm understanding how back-end works, additionally used NodeJS (project and external courses) and C# (university).
-Worked in fin-tech projects.
-I have good communication skills, mentoring experience and always ready to learn and use new things.
+Focus on modern front-end technologies, code quality, development process optimizations, architecture and performance.
+5+ years of commercial software development and programming for 8+ years. 
+Solid experience with TypeScript, React, Redux, MUI and different FE libs; advanced dev-skills; strong adaptive and cross-browser layout; good knowledges about FE- architectures, methodologies and approaches; setup of the FE apps. Worked with express.js, Nest.js (optional).
+Leading, onboarding, mentoring and interviewing experience; nice communication skills; good UX insight & product focus.
+Took part in 5 fin-tech projects; worked both in small and large projects with a distributed development teams.
+I often learn new things and put them into practice.
 
 <h1>🛠️ Technical Stack</h1>
 <ul>
-<li>HTML, CSS\SCSS\Less, JS\JS+Flow\TS</li>
-<li>React, JQuery, Nodejs(optional)</li>
+<li>HTML, CSS\SCSS\Less\PostCss, JS\JS+Flow\TS</li>
+<li>React, JQuery</li>
 <li>Redux\MobX\Effector, Redux-Saga\Thunk, Redux-forms\React-final-form\React-hook-form, React-i18next</li>
-<li>Storybook, Styled-components, Tailwindcss, PostCSS</li>
+<li>Storybook, Styled-components, Emotion, Tailwindcss </li>
 <li>AntDesign, MaterialUI and customization of different react components like rc-*, rating-stars, scrollbars and etc.</li>
 <li>Jest, Enzyme, Testing Library</li>
 <li>REST, WebSocket, WebRTC(SDK)</li>
 <li>npm\yarn, webpack\vite</li>
-<li>Libs like axios, lodash\radash, moment\luxon and etc.</li>
+<li>Libs like axios, lodash\radash, moment\luxon\date-fns, chart.js</li>
+<li>Nodejs, express, Nest(backend optional)</li>
 </ul>
 
 <h1>💻 Work experience</h1>
