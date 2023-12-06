@@ -8,16 +8,17 @@ I often learn new things and put them into practice.
 
 <h1>🛠️ Technical Stack</h1>
 <ul>
-<li>HTML, CSS\SCSS\Less\PostCss, JS\JS+Flow\TS</li>
+<li>HTML, Handlebars, Pug</li>
+<li>CSS, SCSS, Less, PostCss, Styled-components, Emotion, Tailwindcss</li>
+<li>JS, JS+Flow.js, TS</li>
 <li>React, JQuery</li>
 <li>Redux\MobX\Effector, Redux-Saga\Thunk, Redux-forms\React-final-form\React-hook-form, React-i18next</li>
-<li>Storybook, Styled-components, Emotion, Tailwindcss </li>
 <li>AntDesign, MaterialUI and customization of different react components like rc-*, rating-stars, scrollbars and etc.</li>
-<li>Jest, Enzyme, Testing Library</li>
+<li>Jest, Enzyme, Testing Library, Storybook</li>
+<li>Nodejs, express.js, Nest.js</li>
+<li>Libs like axios, lodash\radash, moment\luxon\date-fns, chart.js</li>
 <li>REST, WebSocket, WebRTC(SDK)</li>
 <li>npm\yarn, webpack\vite</li>
-<li>Libs like axios, lodash\radash, moment\luxon\date-fns, chart.js</li>
-<li>Nodejs, express, Nest(backend optional)</li>
 </ul>
 
 <h1>💻 Work experience</h1>
