@@ -14,7 +14,7 @@ Took part in 5 fin-tech projects; worked both in small and large projects with a
 <li>React, Next, JQuery</li>
 <li>Redux\MobX\Effector, Redux-Saga\Thunk, Redux-forms\React-final-form\React-hook-form, React-i18next</li>
 <li>MaterialUI, AntDesign and customization of different react components like rc-*, rating-stars, scrollbars and etc.</li>
-<li>Jest, Enzyme, Testing Library, Storybook</li>
+<li>Jest, vitest, Enzyme, Testing Library, Storybook</li>
 <li>Nodejs, express.js, Nest.js</li>
 <li>TypeORM, sequelize, mongoose, inversify, hapi(boom, joi & etc.)</li>
 <li>Libs like axios, lodash\radash, ramda, moment\luxon\date-fns, chart.js</li>
