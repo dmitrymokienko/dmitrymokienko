@@ -19,7 +19,7 @@ Took part in 5 fin-tech projects; worked both in small and large projects with a
 <li>TypeORM, sequelize, mongoose, inversify, hapi(boom, joi & etc.)</li>
 <li>Libs like axios, lodash\radash, ramda, moment\luxon\date-fns, chart.js, i18next</li>
 <li>REST, WebSocket, WebRTC(SDK)</li>
-<li>npm\yarn, webpack\vite</li>
+<li>npm\yarn\pnpm, webpack\vite</li>
 </ul>
 
 <h1>💻 Work experience</h1>
