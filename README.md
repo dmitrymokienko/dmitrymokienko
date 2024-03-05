@@ -1,6 +1,6 @@
 <h1>About me</h1>
 Focus on modern front-end technologies, code quality, development process optimizations, architecture and performance.
-<br />5+ years of commercial software development and programming for 8+ years. 
+<br />7+ years of commercial software development and programming for 9+ years. 
 Solid experience with TypeScript, React, Redux, MUI and different FE libs; advanced dev-skills; strong adaptive and cross-browser layout; good knowledges about FE- architectures, methodologies and approaches; setup of the FE apps. Worked with express.js, Nest.js.
 Leading, onboarding, mentoring and interviewing experience; nice communication skills; good UX insight & product focus.
 Took part in 5 fin-tech projects; worked both in small and large projects with a distributed development teams.
