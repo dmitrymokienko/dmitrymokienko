@@ -1,6 +1,6 @@
 <h1>About me</h1>
 Focus on modern technologies, code quality, development process optimizations, architecture and performance.
-<br />7+ years of commercial software development and programming for 9+ years. 
+<br />7+ years of commercial software development and programming for 10+ years. 
 <br />Solid experience with TypeScript, React, Redux, MUI and different FE libs; advanced dev-skills; strong adaptive and cross-browser layout; good knowledges about FE- architectures, methodologies and approaches; setup of the FE apps. Worked with express.js, Nest.js.
 <br />Leading, onboarding, mentoring and interviewing experience; nice communication skills; good UX insight & product focus.
 <br />Took part in 5 fin-tech projects; worked both in small and large projects with a distributed development teams.
@@ -24,7 +24,7 @@ Focus on modern technologies, code quality, development process optimizations, a
 <ul>
 <li>Nodejs, express.js, Nest.js</li>
 <li>TypeORM, sequelize, mongoose</li> 
-<li>swagger, passportjs, class-validator, class-transformer, bcrypt, node-cache, @google-cloud/...,  inversify, hapi(boom, joi & etc.)</li>
+<li>swagger, passportjs, class-validator, class-transformer, bcrypt, node-cache, inversify, @google-cloud/..., @hapi/(boom, joi, ...)</li>
 <li>Postgresql, mongoDB</li>
 </ul>
 
@@ -33,6 +33,8 @@ Focus on modern technologies, code quality, development process optimizations, a
 <li>REST, WebSocket, WebRTC(SDK)</li>
 <li>auth, OAuth2, jwt, cookies, storages</li>
 <li>third-party services integrations</li>
+<li>i18n</li>  
+<li>Frontend/Backend app setup</li>  
 <li>npm\yarn\pnpm, webpack\vite</li>
 </ul>
 
