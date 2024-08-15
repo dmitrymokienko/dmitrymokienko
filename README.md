@@ -7,6 +7,8 @@ Focus on modern technologies, code quality, development process optimizations, a
 <br />I often learn new things and put them into practice.
 
 <h1>🛠️ Dev stack:</h1>
+
+<h3>Front-end</h3>
 <ul>
 <li>HTML, Handlebars, Pug</li>
 <li>CSS, SCSS, Less, PostCss, Styled-components, Emotion, Tailwindcss</li>
@@ -15,10 +17,20 @@ Focus on modern technologies, code quality, development process optimizations, a
 <li>Redux\MobX\Effector, Redux-Saga\Thunk, Redux-forms\React-final-form\React-hook-form, React-i18next</li>
 <li>MaterialUI, AntDesign and customization of different react components like rc-*, rating-stars, scrollbars and etc.</li>
 <li>Jest, vitest, Enzyme, Testing Library, Storybook</li>
-<li>Nodejs, express.js, Nest.js</li>
-<li>TypeORM, sequelize, mongoose, inversify, hapi(boom, joi & etc.)</li>
 <li>Libs like axios, lodash\radash, ramda, moment\luxon\date-fns, chart.js, i18next</li>
-<li>REST, WebSocket, WebRTC(SDK)</li>
+</ul>
+
+<h3>Back-end</h3>
+<ul>
+<li>Nodejs, express.js, Nest.js</li>
+<li>TypeORM, sequelize, mongoose</li> 
+<li>class-validator, class-transformer, bcrypt, node-cache, passport, inversify, hapi(boom, joi & etc.)</li>
+<li>Postgresql, mongoDB</li>
+</ul>
+
+<h3>Other</h3>
+<ul>
+<li>REST, WebSocket, WebRTC(SDK), OAuth2, jwt</li>
 <li>npm\yarn\pnpm, webpack\vite</li>
 </ul>
 
