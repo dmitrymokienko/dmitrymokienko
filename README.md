@@ -24,13 +24,15 @@ Focus on modern technologies, code quality, development process optimizations, a
 <ul>
 <li>Nodejs, express.js, Nest.js</li>
 <li>TypeORM, sequelize, mongoose</li> 
-<li>class-validator, class-transformer, bcrypt, node-cache, passport, inversify, hapi(boom, joi & etc.)</li>
+<li>swagger, passportjs, class-validator, class-transformer, bcrypt, node-cache, @google-cloud/...,  inversify, hapi(boom, joi & etc.)</li>
 <li>Postgresql, mongoDB</li>
 </ul>
 
 <h3>Other</h3>
 <ul>
-<li>REST, WebSocket, WebRTC(SDK), OAuth2, jwt</li>
+<li>REST, WebSocket, WebRTC(SDK)</li>
+<li>auth, OAuth2, jwt, cookies, storages</li>
+<li>third-party services integrations</li>
 <li>npm\yarn\pnpm, webpack\vite</li>
 </ul>
 
