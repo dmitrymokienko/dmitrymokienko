@@ -1,6 +1,6 @@
 <h1>About me</h1>
-Focus on modern technologies, code quality, development process optimizations, architecture and performance.
-<br />7+ years of commercial software development and programming for 10+ years. 
+<br />7+ years of commercial software development and programming for 10+ years. In addition, I have about 1 year of leading experience.
+<br/>Focus on modern technologies, code quality, development process optimizations, architecture and performance.
 <br />Solid experience with TypeScript, React, Redux, MUI and different FE libs; advanced dev-skills; strong adaptive and cross-browser layout; good knowledges about FE- architectures, methodologies and approaches; setup of the FE apps. Worked with express.js, Nest.js.
 <br />Leading, onboarding, mentoring and interviewing experience; nice communication skills; good UX insight & product focus.
 <br />Took part in 5 fin-tech projects; worked both in small and large projects with a distributed development teams.
@@ -8,7 +8,7 @@ Focus on modern technologies, code quality, development process optimizations, a
 
 <h1>🛠️ Dev stack:</h1>
 
-<h3>Front-end</h3>
+<h3>Frontend</h3>
 <ul>
 <li>HTML, Handlebars, Pug</li>
 <li>CSS, SCSS, Less, PostCss, Styled-components, Emotion, Tailwindcss</li>
@@ -20,11 +20,12 @@ Focus on modern technologies, code quality, development process optimizations, a
 <li>Libs like axios, lodash\radash, ramda, moment\luxon\date-fns, chart.js, i18next</li>
 </ul>
 
-<h3>Back-end</h3>
+<h3>Backend</h3>
 <ul>
-<li>Nodejs, express.js, Nest.js</li>
+<li>Nodejs, Express, Nest</li>
 <li>TypeORM, sequelize, mongoose</li> 
-<li>swagger, passportjs, class-validator, class-transformer, bcrypt, node-cache, inversify, @google-cloud/..., @hapi/(boom, joi, ...)</li>
+<li>passportjs, class-validator, class-transformer, bcrypt, node-cache, inversify, @hapi/(boom, joi, ...)</li>
+<li>@google-cloud/..., swagger, </li>
 <li>Postgresql, mongoDB</li>
 </ul>
 
@@ -32,9 +33,9 @@ Focus on modern technologies, code quality, development process optimizations, a
 <ul>
 <li>REST, WebSocket, WebRTC(SDK)</li>
 <li>auth, OAuth2, jwt, cookies, storages</li>
-<li>third-party services integrations</li>
+<li>third-party services integrations (Mollie)</li>
 <li>i18n</li>  
-<li>Frontend/Backend app setup</li>  
+<li>Frontend and Backend app starter (setup from zero)</li>  
 <li>npm\yarn\pnpm, webpack\vite</li>
 </ul>
 
