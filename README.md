@@ -18,6 +18,7 @@
 <li>MaterialUI, AntDesign and customization of different react components like rc-*, rating-stars, scrollbars and etc.</li>
 <li>Jest, vitest, Enzyme, Testing Library, Storybook</li>
 <li>Libs like axios, zod, lodash\radash, ramda, moment\luxon\date-fns, chart.js, i18next</li>
+<li>Setup eslint, prettier, husky</li>
 </ul>
 
 <h3>Backend</h3>
@@ -31,13 +32,12 @@
 
 <h3>Other</h3>
 <ul>
+<li>Frontend and Backend app starter (setup from zero)</li>  
 <li>REST, WebSocket, WebRTC(SDK)</li>
 <li>auth, OAuth2, jwt, cookies, storages</li>
-<li>third-party services integrations (Mollie)</li>
-<li>i18n</li>  
-<li>Frontend and Backend app starter (setup from zero)</li>  
-<li>Setup eslint, prettier, husky</li>
+<li>third-party services integrations (Mollie PSP)</li>
 <li>npm\yarn\pnpm, webpack\vite</li>
+<li>i18n</li>  
 </ul>
 
 <h1>💻 Work experience</h1>
