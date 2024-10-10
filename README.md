@@ -13,7 +13,7 @@
 <li>HTML, Handlebars, Pug</li>
 <li>CSS, SCSS, Less, PostCss, Styled-components, Emotion, Tailwindcss</li>
 <li>JS, JS+Flow.js, TS</li>
-<li>React, Next, JQuery</li>
+<li>JQuery, Dojo, React, Next</li>
 <li>Redux\MobX\Effector, Redux-Saga\Thunk, Redux-forms\React-final-form\React-hook-form, React-i18next</li>
 <li>MaterialUI, AntDesign and customization of different react components like rc-*, rating-stars, scrollbars and etc.</li>
 <li>Jest, vitest, Enzyme, Testing Library, Storybook</li>
@@ -36,6 +36,7 @@
 <li>third-party services integrations (Mollie)</li>
 <li>i18n</li>  
 <li>Frontend and Backend app starter (setup from zero)</li>  
+<li>Setup eslint, prettier, husky</li>
 <li>npm\yarn\pnpm, webpack\vite</li>
 </ul>
 
