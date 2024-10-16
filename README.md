@@ -13,7 +13,7 @@
 <li>HTML, Handlebars, Pug</li>
 <li>CSS, SCSS, Less, PostCss, Styled-components, Emotion, Tailwindcss</li>
 <li>JS, JS+Flow.js, TS</li>
-<li>JQuery, Dojo, React, Next</li>
+<li>JQuery, Dojo Toolkit, React, Next</li>
 <li>Redux\MobX\Effector, Redux-Saga\Thunk, Redux-forms\React-final-form\React-hook-form, React-i18next</li>
 <li>MaterialUI, AntDesign and customization of different react components like rc-*, rating-stars, scrollbars and etc.</li>
 <li>Jest, vitest, Enzyme, Testing Library, Storybook</li>
