@@ -14,7 +14,7 @@
 <li>CSS, SCSS, Less, PostCss, Styled-components, Emotion, Tailwindcss</li>
 <li>JS, JS+Flow.js, TS</li>
 <li>JQuery, Dojo Toolkit, React, Next</li>
-<li>Redux\MobX\Effector, Redux-Saga\Thunk, Redux-forms\React-final-form\React-hook-form, React-i18next</li>
+<li>Redux\MobX\Effector, @tanstack/react-query, Redux-Saga\Thunk, Redux-forms\React-final-form\React-hook-form, React-i18next</li>
 <li>MaterialUI, AntDesign and customization of different react components like rc-*, rating-stars, scrollbars and etc.</li>
 <li>Jest, vitest, Enzyme, Testing Library, Storybook</li>
 <li>Libs like axios, zod, lodash\radash, ramda, moment\luxon\date-fns, chart.js, i18next</li>
