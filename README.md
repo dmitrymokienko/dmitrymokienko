@@ -14,12 +14,12 @@
 <li>CSS, SCSS, less, PostCSS, styled-components, Emotion, TailwindCss</li>
 <li>JS, JS+Flow.js, TS</li>
 <li>JQuery, Dojo Toolkit, React, Nextjs</li>
-<li>Redux, MobX, Effector, Zustand, @tanstack/react-query, Redux-Saga, Thunk, axios</li>
+<li>Redux, MobX, Effector, Zustand, @tanstack/react-query, Redux-Saga, Thunk</li>
 <li>Redux-forms, React-final-form, React-hook-form, zod, yup</li>
 <li>React-i18next</li>
 <li>MaterialUI, AntDesign, Shadcn, Mantine, TailwindUI and customization of different react components like rc-*, rating-stars, scrollbars and etc.</li>
 <li>Jest, vitest, Enzyme, Testing Library, Storybook</li>
-<li>lodash, radash, ramda</li>
+<li>lodash, radash, ramda, axios</li>
 <li>moment, luxon, date-fns</li>
 <li>chart.js, react-chartjs-2, google-charts</li>
 <li>Setup eslint, prettier, husky</li>
@@ -49,7 +49,8 @@
 <li><i>Jun 2018 - Jul 2020</i> <b>Epam Systems</b> (Russia, Saratov)</li>
 <li><i>Jul 2020 - Apr 2021</i> <b>Usetech</b> (Russia, Moscow - remote)</li>
 <li><i>May 2021 - May 2022</i> <b>Luxoft</b> (Russia, Moscow - remote)</li>
-<li><i>April 2022</i> - Present <b>Maroo Ink.</b> (US, New York - remote)</li>
+<li><i>April 2022 - October 2024</i> <b>Maroo Ink.</b> (US, New York - remote)</li>
+<li><i>October 2024</i> - Present <b>Aviation logistics</b> (US, New York - remote)</li>
 
 <h1>📚 Education and courses</h1>
 <li>Saratov State University, Bachelor, faculty of Computer science and information technologies, specialty: Software and administration of information systems</li>
