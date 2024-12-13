@@ -14,10 +14,10 @@
 <li>CSS, SCSS, less, PostCSS, styled-components, Emotion, TailwindCss</li>
 <li>JS, JS+Flow.js, TS</li>
 <li>JQuery, Dojo Toolkit, React, Nextjs</li>
-<li>Redux, MobX, Effector, @tanstack/react-query, Redux-Saga, Thunk, axios</li>
+<li>Redux, MobX, Effector, Zustand, @tanstack/react-query, Redux-Saga, Thunk, axios</li>
 <li>Redux-forms, React-final-form, React-hook-form, zod, yup</li>
 <li>React-i18next</li>
-<li>MaterialUI, AntDesign and customization of different react components like rc-*, rating-stars, scrollbars and etc.</li>
+<li>MaterialUI, AntDesign, Shadcn, Mantine, TailwindUI and customization of different react components like rc-*, rating-stars, scrollbars and etc.</li>
 <li>Jest, vitest, Enzyme, Testing Library, Storybook</li>
 <li>lodash, radash, ramda</li>
 <li>moment, luxon, date-fns</li>
