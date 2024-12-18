@@ -16,8 +16,8 @@
 <li>JQuery, Dojo Toolkit, React, Nextjs</li>
 <li>Redux, MobX, Effector, Zustand, @tanstack/react-query, ebay/nice-modal-react; Redux-Saga, Thunk, RTK</li>
 <li>Redux-forms, React-final-form, React-hook-form, zod, yup</li>
-<li>React-i18next</li>
-<li>MaterialUI, AntDesign, Shadcn, Mantine, TailwindUI and customization of different react components like rc-*, rating-stars, scrollbars and etc.</li>
+<li>React-i18next, next-intl</li>
+<li>MaterialUI, TailwindUI, Shadcn, Mantine, AntDesign and customization of different react components like rc-*, rating-stars, scrollbars and etc.</li>
 <li>Jest, vitest, Enzyme, Testing Library, Storybook</li>
 <li>lodash, radash, ramda, axios</li>
 <li>moment, luxon, date-fns</li>
@@ -50,7 +50,7 @@
 <li><i>Jul 2020 - Apr 2021</i> <b>Usetech</b> (Russia, Moscow - remote)</li>
 <li><i>May 2021 - May 2022</i> <b>Luxoft</b> (Russia, Moscow - remote)</li>
 <li><i>Apr 2022 - Oct 2024</i> <b>Maroo Ink.</b> (US, New York - remote)</li>
-<li><i>Oct 2024</i> - Present  <b>Aviation logistics</b> (Dubai, United Arab Emirates - remote)</li>
+<li><i>Oct 2024</i> - Present  <b>Aviation logistics</b> (UAE, Dubai - remote)</li>
 
 <h1>📚 Education and courses</h1>
 <li>Saratov State University, Bachelor, faculty of Computer science and information technologies, specialty: Software and administration of information systems</li>
