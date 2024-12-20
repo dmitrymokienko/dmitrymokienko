@@ -41,7 +41,7 @@
 <li>REST, WebSocket, WebRTC(SDK)</li>
 <li>auth, OAuth2, jwt, cookies, storages</li>
 <li>third-party services integrations (Mollie PSP)</li>
-<li>npm\yarn\pnpm, webpack\vite</li>
+<li>npm/yarn/pnpm, webpack/vite/turbopack, Turborepo</li>
 <li>i18n</li>  
 </ul>
 
