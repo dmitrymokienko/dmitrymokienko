@@ -31,7 +31,7 @@
 <li>passportjs, simple-oauth2, bcrypt</li>
 <li>class-validator, class-transformer, inversify, @hapi/...</li>
 <li>@google-cloud/..., swagger, node-cache </li>
-<li>TypeORM, sequelize, mongoose</li> 
+<li>Prisma, TypeORM, sequelize, mongoose, Supabase</li> 
 <li>Postgresql, mongoDB</li>
 </ul>
 
