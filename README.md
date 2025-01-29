@@ -46,7 +46,7 @@
 </ul>
 
 <h1>💻 Work experience</h1>
-<li><i>Jun 2018 - Jul 2020</i> <b>Epam Systems</b> (Russia, Saratov)</li>
+<li><i>Jun 2017 - Jul 2020</i> <b>Epam Systems</b> (Russia, Saratov)</li>
 <li><i>Jul 2020 - Apr 2021</i> <b>Usetech</b> (Russia, Moscow - remote)</li>
 <li><i>May 2021 - May 2022</i> <b>Luxoft</b> (Russia, Moscow - remote)</li>
 <li><i>Apr 2022 - Oct 2024</i> <b>Maroo Ink.</b> (US, New York - remote)</li>
