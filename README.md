@@ -1,5 +1,5 @@
 <h1>About me</h1>
-<br />7+ years of commercial software development and programming for 10+ years. In addition, I have about 2 year of leading experience.
+<br />8+ years of commercial software development and programming for 11+ years. In addition, I have about 2 year of leading experience.
 <br/>Focus on modern technologies, code quality, development process optimizations, architecture and performance.
 <br />Solid experience with TypeScript, React, Redux, MUI and different FE libs; advanced dev-skills; strong adaptive and cross-browser layout; good knowledges about FE- architectures, methodologies and approaches; setup of the FE apps. Worked with express.js, Nest.js.
 <br />Leading, onboarding, mentoring and interviewing experience; nice communication skills; good UX insight & product focus.
