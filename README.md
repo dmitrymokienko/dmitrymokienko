@@ -16,9 +16,9 @@
 <li>JQuery, Dojo Toolkit, React, Nextjs</li>
 <li>Redux, MobX, Effector, Zustand, @tanstack/react-query, ebay/nice-modal-react; Redux-Saga, Thunk, RTK</li>
 <li>Redux-forms, React-final-form, React-hook-form, zod, yup</li>
-<li>React-i18next, next-intl</li>
+<li>React-i18next, next-intl, react-intl</li>
 <li>MaterialUI, TailwindUI, Shadcn, Mantine, AntDesign and customization of different react components like rc-*, rating-stars, scrollbars and etc.</li>
-<li>Jest, vitest, Enzyme, Testing Library, Storybook</li>
+<li>Jest, vitest, Enzyme, Testing Library, Playwright, Storybook</li>
 <li>lodash, radash, ramda, axios</li>
 <li>moment, luxon, date-fns</li>
 <li>chart.js, react-chartjs-2, google-charts</li>
@@ -42,7 +42,7 @@
 <li>auth, OAuth2, jwt, cookies, storages</li>
 <li>third-party services integrations (Mollie PSP)</li>
 <li>npm/yarn/pnpm, webpack/vite/turbopack, Turborepo</li>
-<li>i18n</li>  
+<li>i18n, i18-next, react-intl</li>  
 </ul>
 
 <h1>💻 Work experience</h1>
