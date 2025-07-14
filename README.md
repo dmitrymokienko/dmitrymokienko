@@ -1,10 +1,5 @@
 <h1>About me</h1>
-<br />8+ years of commercial software development and programming for 11+ years. In addition, I have about 2 year of leading experience.
-<br/>Focus on modern technologies, code quality, development process optimizations, architecture and performance.
-<br />Solid experience with TypeScript, React, Redux, MUI and different FE libs; advanced dev-skills; strong adaptive and cross-browser layout; good knowledges about FE- architectures, methodologies and approaches; setup of the FE apps. Worked with express.js, Nest.js.
-<br />Leading, onboarding, mentoring and interviewing experience; nice communication skills; good UX insight & product focus.
-<br />Took part in 5 fin-tech projects; worked both in small and large projects with a distributed development teams.
-<br />I often learn new things and put them into practice.
+<br />Engineer with 8 years of experience in commercial software development. Strong expertise in JavaScript, TypeScript, React, and building scalable applications with clean architecture. Comfortable starting new applications from scratch and maintaining legacy systems. Proven ability to modernize outdated codebases and transition to new technologies with minimal business disruption. Experience in backend development with Express.js, NestJS. Contributed to a high-growth startup (YC S21) and several large enterprise fintech platforms.
 
 <h1>🛠️ Dev stack:</h1>
 
