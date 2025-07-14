@@ -29,6 +29,7 @@
 <h3>Backend</h3>
 <ul>
 <li>Nodejs, Express, Nest</li>
+<li>PHP, Symfony</li>
 <li>passportjs, simple-oauth2, bcrypt</li>
 <li>class-validator, class-transformer, inversify, @hapi/...</li>
 <li>@google-cloud/..., swagger, node-cache </li>
