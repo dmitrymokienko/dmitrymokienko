@@ -12,17 +12,18 @@
 <ul>
 <li>HTML, Handlebars, Pug</li>
 <li>CSS, SCSS, less, PostCSS, styled-components, emotion, Bootstrap, Tailwindcss</li>
-<li>JS, JS+Flow.js, TS</li>
-<li>JQuery, Dojo Toolkit, React, Nextjs</li>
+<li>TepeScript, JavaScript, JS+Flow.js</li>
+<li>JQuery, DojoToolkit, React, Nextjs</li>
 <li>Redux, MobX, Effector, Zustand, @tanstack/react-query, ebay/nice-modal-react; Redux-Saga, Thunk, RTK</li>
-<li>Redux-forms, React-final-form, React-hook-form, zod, yup</li>
+<li>React-hook-form, Redux-forms, React-final-form, zod, yup</li>
+<li>@tanstack/router, React Router</li>
 <li>React-i18next, next-intl, react-intl</li>
-<li>MaterialUI, TailwindUI, Shadcn, Mantine, AntDesign and customization of different react components like rc-*, rating-stars, scrollbars and etc.</li>
+<li>MaterialUI, TailwindUI, Shadcn, Mantine, AntDesign, rc-* components, @tanstack/table</li>
 <li>Jest, vitest, Enzyme, Testing Library, Playwright, Storybook</li>
 <li>lodash, radash, ramda, axios</li>
 <li>moment, luxon, date-fns</li>
 <li>chart.js, react-chartjs-2, google-charts</li>
-<li>Setup eslint, prettier, husky</li>
+<li>Setup eslint, prettier, husky, biome</li>
 </ul>
 
 <h3>Backend</h3>
@@ -41,8 +42,7 @@
 <li>REST, WebSocket, WebRTC(SDK)</li>
 <li>auth, OAuth2, jwt, cookies, storages</li>
 <li>third-party services integrations (Mollie PSP)</li>
-<li>npm/yarn/pnpm, webpack/vite/turbopack, Turborepo</li>
-<li>i18n, i18-next, react-intl</li>  
+<li>npm/yarn/pnpm/bun, webpack/vite/turbopack, Turborepo</li>
 </ul>
 
 <h1>💻 Work experience</h1>
