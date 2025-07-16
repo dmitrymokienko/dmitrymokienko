@@ -8,7 +8,7 @@ Engineer with 8 years of experience in commercial software development. Strong e
 <li>HTML, Handlebars, Pug</li>
 <li>CSS, SCSS, less, PostCSS, styled-components, emotion, Bootstrap, Tailwindcss</li>
 <li>TepeScript, JavaScript, JS+Flow.js</li>
-<li>JQuery, DojoToolkit, React, Nextjs</li>
+<li>JQuery, DojoToolkit, React, Nextjs, TanStack Start</li>
 <li>Redux, MobX, Effector, Zustand, @tanstack/react-query, ebay/nice-modal-react; Redux-Saga, Thunk, RTK</li>
 <li>React-hook-form, Redux-forms, React-final-form, zod, yup</li>
 <li>@tanstack/router, React Router</li>
