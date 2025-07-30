@@ -1,7 +1,7 @@
 <h1>About me</h1>
 Engineer with 8 years of experience in commercial software development. Strong expertise in JavaScript, TypeScript, React, and building scalable applications with clean architecture. Comfortable starting new applications from scratch and maintaining legacy systems. Proven ability to modernize outdated codebases and transition to new technologies with minimal business disruption. Experience in backend development with Express.js, NestJS and PHP. Contributed to a high-growth startup (YC S21) and several large enterprise fintech platforms.
 
-<h1>🛠️ Dev stack:</h1>
+<h1>🛠️ Dev stack</h1>
 
 <h3>Frontend</h3>
 <ul>
