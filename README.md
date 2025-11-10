@@ -8,7 +8,7 @@ Engineer with 8 years of experience in commercial software development. Strong e
 <li>HTML, Handlebars, Pug</li>
 <li>CSS, SCSS, less, PostCSS, styled-components, emotion, Bootstrap, Tailwindcss</li>
 <li>TepeScript, JavaScript, JS+Flow.js</li>
-<li>JQuery, DojoToolkit, React, Nextjs, TanStack Start</li>
+<li>JQuery, DojoToolkit, React, Nextjs, @tanstack/start</li>
 <li>Redux, MobX, Effector, Zustand, @tanstack/react-query, ebay/nice-modal-react; Redux-Saga, Thunk, RTK</li>
 <li>React-hook-form, Redux-forms, React-final-form, zod, yup</li>
 <li>@tanstack/router, React Router</li>
@@ -18,27 +18,26 @@ Engineer with 8 years of experience in commercial software development. Strong e
 <li>lodash, radash, ramda, axios</li>
 <li>moment, luxon, date-fns</li>
 <li>chart.js, react-chartjs-2, google-charts</li>
-<li>Setup eslint, prettier, husky, biome</li>
+<li>Setup eslint+prettier+husky, biome+lefthook</li>
 </ul>
 
 <h3>Backend</h3>
 <ul>
 <li>Nodejs, Express, Nest</li>
 <li>PHP, Symfony</li>
-<li>passportjs, simple-oauth2, bcrypt</li>
-<li>class-validator, class-transformer, inversify, @hapi/...</li>
-<li>@google-cloud/..., swagger, node-cache </li>
-<li>Prisma, TypeORM, sequelize, mongoose, Supabase</li> 
 <li>Postgresql, mongoDB</li>
+<li>Prisma, TypeORM, sequelize, mongoose, Doctrine</li> 
 </ul>
 
 <h3>Other</h3>
 <ul>
-<li>Frontend and Backend app starter (setup from zero)</li>  
+<li>Frontend and Backend app starter (setup from zero)</li>
+<li>setup docker, docker-compose, nginx</li>
 <li>REST, WebSocket, WebRTC(SDK)</li>
-<li>auth, OAuth2, jwt, cookies, storages</li>
-<li>third-party services integrations (Mollie PSP)</li>
+<li>third-party services integrations (like Mollie PSP, Stripe, Google Api)</li>
+<li>passportjs, simple-oauth2, nextAuth, better-auth</li>
 <li>npm/yarn/pnpm/bun, webpack/vite/turbopack, Turborepo</li>
+<li>prompt-engineering, mcp</li>
 </ul>
 
 <h1>💻 Work experience</h1>
