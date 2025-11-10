@@ -5,39 +5,45 @@ Engineer with 8 years of experience in commercial software development. Strong e
 
 <h3>Frontend</h3>
 <ul>
-<li>HTML, Handlebars, Pug</li>
-<li>CSS, SCSS, less, PostCSS, styled-components, emotion, Bootstrap, Tailwindcss</li>
-<li>TepeScript, JavaScript, JS+Flow.js</li>
-<li>JQuery, DojoToolkit, React, Nextjs, @tanstack/start</li>
-<li>Redux, MobX, Effector, Zustand, @tanstack/react-query, ebay/nice-modal-react; Redux-Saga, Thunk, RTK</li>
-<li>React-hook-form, Redux-forms, React-final-form, zod, yup</li>
-<li>@tanstack/router, React Router</li>
-<li>React-i18next, next-intl, react-intl</li>
-<li>MaterialUI, TailwindUI, Shadcn, Mantine, AntDesign, rc-* components, @tanstack/table</li>
-<li>Jest, vitest, Enzyme, Testing Library, Playwright, Storybook</li>
-<li>lodash, radash, ramda, axios</li>
-<li>moment, luxon, date-fns</li>
-<li>chart.js, react-chartjs-2, google-charts</li>
-<li>Setup eslint+prettier+husky, biome+lefthook</li>
+<li>**Markdown:** HTML, Handlebars, Pug</li>
+<li>**Styles:** CSS, SCSS, less, PostCSS, styled-components, emotion, Bootstrap, Tailwindcss</li>
+<li>**Languages & Fundamentals:** TepeScript, JavaScript, JS+Flow.js</li>
+<li>**Frameworks & Runtimes:** JQuery, DojoToolkit, React, Nextjs, @tanstack/start</li>
+<li>**State management:** Redux, MobX, Effector, Zustand, @tanstack/react-query, ebay/nice-modal-react; Redux-Saga, Thunk, RTK</li>
+<li>**Forms & validation:** React-hook-form, Redux-forms, React-final-form, zod, yup</li>
+<li>**Routers:**@tanstack/router, React Router</li>
+<li>**Internationalization:** React-i18next, next-intl, react-intl</li>
+<li>**UI & Design Systems:** MaterialUI, TailwindUI, Shadcn, Mantine, AntDesign, rc-* components, @tanstack/table</li>
 </ul>
 
 <h3>Backend</h3>
 <ul>
-<li>Nodejs, Express, Nest</li>
-<li>PHP, Symfony</li>
-<li>Postgresql, mongoDB</li>
-<li>Prisma, TypeORM, sequelize, mongoose, Doctrine</li> 
+<li>**Languages & Frameworks:** Node.js (Express, NestJS), PHP (Symfony) </li>
+<li>**Databases & ORM:** PostgreSQL, MongoDB, Prisma, TypeORM, Sequelize, Doctrine</li>
+<li>**Auth & API:** NextAuth, BetterAuth, Passportjs, OAuth2, REST, WebSocket, WebRTC</li>
+<li>**Integrations:** Stripe, Mollie PSP, Google APIs</li>
 </ul>
 
-<h3>Other</h3>
+<h3>Tools, Utilities & Testing</h3>
 <ul>
-<li>Frontend and Backend app starter (setup from zero)</li>
-<li>setup docker, docker-compose, nginx</li>
-<li>REST, WebSocket, WebRTC(SDK)</li>
-<li>third-party services integrations (like Mollie PSP, Stripe, Google Api)</li>
-<li>passportjs, simple-oauth2, nextAuth, better-auth</li>
-<li>npm/yarn/pnpm/bun, webpack/vite/turbopack, Turborepo</li>
-<li>prompt-engineering, mcp</li>
+<li>**Utilities:** lodash, radash, ramda, axios</li>
+<li>**Date & time:** moment, luxon, date-fns</li>
+<li>**Charts:** chart.js, react-chartjs-2, google-charts</li>
+<li>**Code Quality:** Setup eslint+prettier+husky, biome+lefthook</li>
+<li>**Testing:** Jest, vitest, Enzyme, Testing Library, Playwright, Storybook</li>
+</ul>
+
+<h3>DevOps & Infrastructure</h3>
+<ul>
+<li>**DevOps:** Docker, Docker Compose, Nginx</li>
+<li>**CI/CD:** Gitlab, GitHub Actions, npm/yarn/pnpm/bun</li>
+<li>**Project Setup:** full-stack app bootstrap (frontend & backend from scratch)</li>
+</ul>
+
+<h3>Emerging & Interests</h3>
+<ul>
+<li>**AI & Prompt Engineering:** OpenAI API, MCP, LLM prompt design</li>
+<li>**Modern Frontend Trends:** React Server Components, TanStack products</li>
 </ul>
 
 <h1>💻 Work experience</h1>
