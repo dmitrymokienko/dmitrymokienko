@@ -1,50 +1,55 @@
 <h1>About me</h1>
 Engineer with 8 years of experience in commercial software development. Strong expertise in JavaScript, TypeScript, React, and building scalable applications with clean architecture. Comfortable starting new applications from scratch and maintaining legacy systems. Proven ability to modernize outdated codebases and transition to new technologies with minimal business disruption. Experience in backend development with Express.js, NestJS and PHP. Contributed to a high-growth startup (YC S21) and several large enterprise fintech platforms.
 
-<h1>🛠️ Dev stack</h1>
+<h1>🛠️ Dev Stack</h1>
+
+<h3>Fundamentals</h3>
+<ul>
+  <li><b>Languages:</b> JavaScript (ES6+), TypeScript, PHP, bash</li>
+  <li><b>Markup:</b> HTML (Handlebars, Pug), XML</li>
+  <li><b>Styles:</b> CSS, SCSS, Less, PostCSS, styled-components, Emotion, Bootstrap, TailwindCSS</li>
+</ul>
 
 <h3>Frontend</h3>
 <ul>
-<li>**Markdown:** HTML, Handlebars, Pug</li>
-<li>**Styles:** CSS, SCSS, less, PostCSS, styled-components, emotion, Bootstrap, Tailwindcss</li>
-<li>**Languages & Fundamentals:** TepeScript, JavaScript, JS+Flow.js</li>
-<li>**Frameworks & Runtimes:** JQuery, DojoToolkit, React, Nextjs, @tanstack/start</li>
-<li>**State management:** Redux, MobX, Effector, Zustand, @tanstack/react-query, ebay/nice-modal-react; Redux-Saga, Thunk, RTK</li>
-<li>**Forms & validation:** React-hook-form, Redux-forms, React-final-form, zod, yup</li>
-<li>**Routers:**@tanstack/router, React Router</li>
-<li>**Internationalization:** React-i18next, next-intl, react-intl</li>
-<li>**UI & Design Systems:** MaterialUI, TailwindUI, Shadcn, Mantine, AntDesign, rc-* components, @tanstack/table</li>
+  <li><b>Frameworks & Runtimes:</b> jQuery, DojoToolkit, React, Next.js, @tanstack/start</li>
+  <li><b>State Management:</b> Redux, MobX, Effector, Zustand, @tanstack/react-query, ebay/nice-modal-react</li>
+  <li><b>Forms & Validation:</b> React Hook Form, Redux Form, React Final Form, Zod, Yup</li>
+  <li><b>Routers:</b> @tanstack/router, React Router</li>
+  <li><b>Internationalization:</b> React-i18next, next-intl, react-intl</li>
+  <li><b>UI & Design Systems:</b> Material UI, TailwindUI, Shadcn, Mantine, Ant Design, rc-* components, @tanstack/table</li>
 </ul>
 
 <h3>Backend</h3>
 <ul>
-<li>**Languages & Frameworks:** Node.js (Express, NestJS), PHP (Symfony) </li>
-<li>**Databases & ORM:** PostgreSQL, MongoDB, Prisma, TypeORM, Sequelize, Doctrine</li>
-<li>**Auth & API:** NextAuth, BetterAuth, Passportjs, OAuth2, REST, WebSocket, WebRTC</li>
-<li>**Integrations:** Stripe, Mollie PSP, Google APIs</li>
+  <li><b>Languages & Frameworks:</b> Node.js (Express, NestJS), PHP (Symfony)</li>
+  <li><b>Databases & ORM:</b> PostgreSQL, MongoDB, Prisma, TypeORM, Sequelize, Doctrine</li>
+  <li><b>Auth & API:</b> NextAuth, BetterAuth, Passport.js, OAuth2, REST, WebSocket, WebRTC</li>
+  <li><b>Integrations:</b> Stripe, Mollie PSP, Google APIs</li>
 </ul>
 
 <h3>Tools, Utilities & Testing</h3>
 <ul>
-<li>**Utilities:** lodash, radash, ramda, axios</li>
-<li>**Date & time:** moment, luxon, date-fns</li>
-<li>**Charts:** chart.js, react-chartjs-2, google-charts</li>
-<li>**Code Quality:** Setup eslint+prettier+husky, biome+lefthook</li>
-<li>**Testing:** Jest, vitest, Enzyme, Testing Library, Playwright, Storybook</li>
+  <li><b>Utilities:</b> Lodash, Radash, Ramda, Axios</li>
+  <li><b>Date & Time:</b> Moment, Luxon, date-fns</li>
+  <li><b>Charts:</b> Chart.js, React-Chartjs-2, Google Charts</li>
+  <li><b>Code Quality:</b> ESLint, Prettier, Husky, Biome, Lefthook</li>
+  <li><b>Testing:</b> Jest, Vitest, Enzyme, Testing Library, Playwright, Storybook</li>
 </ul>
 
 <h3>DevOps & Infrastructure</h3>
 <ul>
-<li>**DevOps:** Docker, Docker Compose, Nginx</li>
-<li>**CI/CD:** Gitlab, GitHub Actions, npm/yarn/pnpm/bun</li>
-<li>**Project Setup:** full-stack app bootstrap (frontend & backend from scratch)</li>
+  <li><b>DevOps:</b> Docker, Docker Compose, Nginx</li>
+  <li><b>CI/CD:</b> GitLab, GitHub Actions, npm, yarn, pnpm, bun</li>
+  <li><b>Project Setup:</b> Full-stack app bootstrap (frontend & backend from scratch)</li>
 </ul>
 
 <h3>Emerging & Interests</h3>
 <ul>
-<li>**AI & Prompt Engineering:** OpenAI API, MCP, LLM prompt design</li>
-<li>**Modern Frontend Trends:** React Server Components, TanStack products</li>
+  <li><b>AI & Prompt Engineering:</b> OpenAI API, MCP, LLM prompt design</li>
+  <li><b>Modern Frontend Trends:</b> React Server Components, TanStack ecosystem</li>
 </ul>
+
 
 <h1>💻 Work experience</h1>
 <li><i>Jun 2017 - Jul 2020</i> <b>Epam Systems</b> (Russia, Saratov)</li>
