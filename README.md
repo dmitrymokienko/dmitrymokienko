@@ -45,23 +45,26 @@ Engineer with 8 years of experience in commercial software development. Strong e
 <h2>🚀 Emerging & Interests</h2>
 <ul>
   <li><b>AI & Prompt Engineering:</b> OpenAI API, MCP, GitHub Copilot, LLM prompt design</li>
-  <li><b>Modern Trends:</b> TanStack ecosystem, React Server Components, Feature-Sliced Design (FSD)</li>
+  <li><b>My interests:</b> TanStack ecosystem, metaframeworks, architectural approaches, AI, deep dive into the backend and DevOps</li>
 </ul>
 
 
 
 <h1>💻 Work experience</h1>
+<ul>
 <li><i>Jun 2017 - Jul 2020</i> <b>Epam Systems</b> (Russia, Saratov)</li>
 <li><i>Jul 2020 - Apr 2021</i> <b>Usetech</b> (Russia, Moscow - remote)</li>
 <li><i>May 2021 - May 2022</i> <b>Luxoft</b> (Russia, Moscow - remote)</li>
 <li><i>Apr 2022 - Oct 2024</i> <b>Maroo Ink.</b> (US, New York - remote)</li>
 <li><i>Oct 2024</i> - Present  <b>Aviation logistics</b> (UAE, Dubai - remote)</li>
+</ul>
 
 <h1>📚 Education and courses</h1>
+<ul>
 <li>Saratov State University, Bachelor, faculty of Computer science and information technologies, specialty: Software and administration of information systems</li>
 <li>English courses, EPAM Systems</li>
 <li>NodeJs Global Mentoring Program, EPAM Systems</li>
-
+</ul>
 <!---
 dmitriimokienko/dmitriimokienko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
