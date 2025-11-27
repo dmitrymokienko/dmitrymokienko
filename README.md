@@ -3,15 +3,10 @@ Engineer with 8 years of experience in commercial software development. Strong e
 
 <h1>🛠️ Dev Stack</h1>
 
-<h2>⚙️ Core Fundamentals</h2>
-<ul>
-  <li><b>Languages:</b> JavaScript (ES6+), TypeScript, PHP, Bash</li>
-  <li><b>Markup & Templates:</b> HTML (Handlebars, Pug), XML</li>
-  <li><b>Styling:</b> CSS, SCSS, Less, PostCSS, styled-components, Emotion, Bootstrap, TailwindCSS</li>
-</ul>
-
 <h2>🎨 Frontend Engineering</h2>
 <ul>
+  <li><b>Languages & Markup:</b> JavaScript (ES6+), TypeScript, HTML (Handlebars, Pug, etc)</li>
+  <li><b>Styling:</b> CSS, SCSS, Less, PostCSS, styled-components, Emotion, Bootstrap, TailwindCSS</li>
   <li><b>Frameworks & Runtimes:</b> React, Next.js, @tanstack/start, jQuery, DojoToolkit</li>
   <li><b>State Management:</b> Redux (RTK, Saga, Thunk), MobX, Effector, Zustand, React Query, NiceModal</li>
   <li><b>Forms & Validation:</b> React Hook Form, Redux Form, React Final Form, Zod, Yup</li>
@@ -22,6 +17,7 @@ Engineer with 8 years of experience in commercial software development. Strong e
 
 <h2>🧱 Backend & Infrastructure</h2>
 <ul>
+  <li><b>Languages:</b> JavaScript (ES6+), TypeScript, PHP </li>
   <li><b>Frameworks:</b> Node.js (Express, NestJS), PHP (Symfony)</li>
   <li><b>Databases & ORM:</b> PostgreSQL, MongoDB, Prisma, TypeORM, Sequelize, Doctrine</li>
   <li><b>API & Communication:</b> REST, WebSocket, WebRTC</li>
