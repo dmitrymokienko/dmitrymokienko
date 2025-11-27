@@ -5,7 +5,7 @@ Engineer with 8 years of experience in commercial software development. Strong e
 
 <h2>🎨 Frontend Engineering</h2>
 <ul>
-  <li><b>Languages & Markup:</b> JavaScript (ES6+), TypeScript, HTML (Handlebars, Pug, etc)</li>
+  <li><b>Languages & Markup:</b> JavaScript, TypeScript, HTML (Handlebars, Pug, etc)</li>
   <li><b>Styling:</b> CSS, SCSS, Less, PostCSS, styled-components, Emotion, Bootstrap, TailwindCSS</li>
   <li><b>Frameworks & Runtimes:</b> React, Next.js, @tanstack/start, jQuery, DojoToolkit</li>
   <li><b>State Management:</b> Redux (RTK, Saga, Thunk), MobX, Effector, Zustand, React Query, NiceModal</li>
@@ -17,13 +17,12 @@ Engineer with 8 years of experience in commercial software development. Strong e
 
 <h2>🧱 Backend & Infrastructure</h2>
 <ul>
-  <li><b>Languages:</b> JavaScript (ES6+), TypeScript, PHP </li>
-  <li><b>Frameworks:</b> Node.js (Express, NestJS), PHP (Symfony)</li>
-  <li><b>Databases & ORM:</b> PostgreSQL, MongoDB, Prisma, TypeORM, Sequelize, Doctrine</li>
-  <li><b>API & Communication:</b> REST, WebSocket, WebRTC</li>
-  <li><b>Auth & Security:</b> NextAuth, BetterAuth, Passport.js, OAuth2</li>
-  <li><b>DevOps:</b> Docker, Docker Compose, Nginx</li>
-  <li><b>Project Setup:</b> Monorepos & Full-stack bootstraps (frontend + backend from scratch)</li>
+  <li><b>Languages:</b> JavaScript, TypeScript, PHP</li>
+  <li><b>Frameworks:</b> Node.js (Express, NestJS), Symfony</li>
+  <li><b>Data:</b> PostgreSQL, MongoDB, Prisma, TypeORM, Sequelize, Doctrine</li>
+  <li><b>API:</b> REST, WebSocket, WebRTC</li>
+  <li><b>Auth:</b> NextAuth, BetterAuth, Passport.js, OAuth2</li>
+  <li><b>DevOps:</b> Docker, Compose, Nginx</li>
 </ul>
 
 <h2>🧰 Tooling & Quality</h2>
