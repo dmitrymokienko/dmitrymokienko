@@ -22,9 +22,7 @@ Engineer with 8 years of experience in commercial software development. Strong e
   <li><b>Databases & ORM:</b> PostgreSQL, MongoDB, Prisma, TypeORM, Sequelize, Doctrine</li>
   <li><b>API & Communication:</b> REST, WebSocket, WebRTC</li>
   <li><b>Auth & Security:</b> NextAuth, BetterAuth, Passport.js, OAuth2</li>
-  <li><b>Integrations:</b> Stripe, Mollie PSP, Google APIs</li>
   <li><b>DevOps:</b> Docker, Docker Compose, Nginx</li>
-  <li><b>CI/CD:</b> GitLab, GitHub Actions</li>
   <li><b>Project Setup:</b> Monorepos & Full-stack bootstraps (frontend + backend from scratch)</li>
 </ul>
 
