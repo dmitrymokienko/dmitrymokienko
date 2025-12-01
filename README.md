@@ -18,7 +18,7 @@ Engineer with 8 years of experience in commercial software development. Strong e
 <h2>🧱 Backend & Infrastructure</h2>
 <ul>
   <li><b>Languages:</b> JavaScript, TypeScript, PHP</li>
-  <li><b>Frameworks:</b> Node.js (Express, NestJS), Symfony</li>
+  <li><b>Frameworks:</b> Node.js (Express, NestJS, Next.js), PHP (Symfony)</li>
   <li><b>Data:</b> PostgreSQL, MongoDB, Prisma, TypeORM, Sequelize, Doctrine</li>
   <li><b>API:</b> REST, WebSocket, WebRTC</li>
   <li><b>Auth:</b> NextAuth, BetterAuth, Passport.js, OAuth2</li>
