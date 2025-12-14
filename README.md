@@ -27,7 +27,7 @@ Engineer with 8 years of experience in commercial software development. Strong e
 
 <h2>🧰 Tooling & Quality</h2>
 <ul>
-  <li><b>Build Tools:</b> Vite, Webpack, Turbopack, Turborepo</li>
+  <li><b>Build Tools:</b> Vite, Webpack, Turbopack, pnpm workspaces + Turborepo</li>
   <li><b>Utilities:</b> Lodash, Radash, Ramda, Axios</li>
   <li><b>Date & Time:</b> Moment, Luxon, date-fns</li>
   <li><b>Charts & Visualization:</b> Chart.js, React ChartJS 2, Google Charts</li>
