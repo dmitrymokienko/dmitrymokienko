@@ -37,7 +37,7 @@ Engineer with 8 years of experience in commercial software development. Strong e
 
 <h2>🚀 Emerging & Interests</h2>
 <ul>
-  <li><b>AI & Prompt Engineering:</b> OpenAI API, MCP, GitHub Copilot, LLM prompt design</li>
+  <li><b>AI & Prompt Engineering:</b> MCP, GitHub Copilot, Gemini, Clode Code, LLM prompt design, LLM automatization & setup</li>
   <li><b>My interests:</b> TanStack ecosystem, meta-frameworks, architectural approaches, AI, deep dive into the backend & infrastructure</li>
 </ul>
 
