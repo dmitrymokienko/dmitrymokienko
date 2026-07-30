@@ -27,7 +27,7 @@ Engineer with 8 years of experience in commercial software development. Strong e
 
 <h2>📦 Open Source & Packages</h2>
 <ul>
-  <li><a href="https://www.npmjs.com/package/chronicle-of-worlds"><b>chronicle-of-worlds</b></a> — Open-source developer tools and utilities</li>
+  <li><a href="https://www.npmjs.com/package/chronicle-of-worlds"><b>chronicle-of-worlds</b></a> — FSD call-graph and symbol indexing CLI/MCP tools that optimize LLM context for agentic development</li>
 </ul>
 
 <h2>🧰 Tooling & Quality</h2>
