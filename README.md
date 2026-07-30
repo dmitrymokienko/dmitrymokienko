@@ -17,8 +17,9 @@ Engineer with 8 years of experience in commercial software development. Strong e
 
 <h2>🤖 AI-Driven Engineering & Harnessing</h2>
 <ul>
-  <li><b>AI Environments & Tooling:</b> Cursor, GitHub Copilot, Kimi, Cloude code, Antigravity</li>
-  <li><b>Agentic Architecture & Infrastructure:</b> Project Harnessing, Model Context Protocol (MCP), Custom Skills, Hooks, System Instructions & Roles</li>
+  <li><b>AI Environments & Tooling:</b> Cursor, GitHub Copilot, Kimi, Claude code, Antigravity</li>
+  <li><b>Agentic Architecture & Infrastructure:</b> Project Harnessing, MCP, Custom Skills, Hooks, System Instructions & Roles</li>
+  <li><b>Loop Engineering & Workflows:</b> Agentic Feedback Loops, Self-Correction Loops, Test/Lint-Driven AI Workflows, Autonomous Execution Pipelines</li>
   <li><b>Context & Prompt Engineering:</b> Codebase Indexing, Call-Graph Analysis for LLMs, Deterministic Guardrails, Prompt Design</li>
 </ul>
 
