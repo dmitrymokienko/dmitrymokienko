@@ -25,6 +25,11 @@ Engineer with 8 years of experience in commercial software development. Strong e
   <li><b>DevOps:</b> Docker, Compose, Nginx</li>
 </ul>
 
+<h2>📦 Open Source & Packages</h2>
+<ul>
+  <li><a href="https://www.npmjs.com/package/chronicle-of-worlds"><b>chronicle-of-worlds</b></a> — Open-source developer tools and utilities</li>
+</ul>
+
 <h2>🧰 Tooling & Quality</h2>
 <ul>
   <li><b>Build Tools:</b> Vite, Webpack, Turbopack, pnpm workspaces + Turborepo</li>
@@ -41,24 +46,18 @@ Engineer with 8 years of experience in commercial software development. Strong e
   <li><b>My interests:</b> TanStack ecosystem, meta-frameworks, architectural approaches, AI, deep dive into the backend & infrastructure</li>
 </ul>
 
-
-
 <h1>💻 Work experience</h1>
 <ul>
-<li><i>Jun 2017 - Jul 2020</i> <b>Epam Systems</b> (Russia, Saratov)</li>
-<li><i>Jul 2020 - Apr 2021</i> <b>Usetech</b> (Russia, Moscow - remote)</li>
-<li><i>May 2021 - May 2022</i> <b>Luxoft</b> (Russia, Moscow - remote)</li>
-<li><i>Apr 2022 - Oct 2024</i> <b>Maroo Ink.</b> (US, New York - remote)</li>
-<li><i>Oct 2024</i> - Present  <b>Aviation logistics</b> (UAE, Dubai - remote)</li>
+  <li><i>Jun 2017 - Jul 2020</i> <b>Epam Systems</b> (Russia, Saratov)</li>
+  <li><i>Jul 2020 - Apr 2021</i> <b>Usetech</b> (Russia, Moscow - remote)</li>
+  <li><i>May 2021 - May 2022</i> <b>Luxoft</b> (Russia, Moscow - remote)</li>
+  <li><i>Apr 2022 - Oct 2024</i> <b>Maroo Inc.</b> (US, New York - remote)</li>
+  <li><i>Oct 2024 - Present</i> <b>Aviation logistics</b> (UAE, Dubai - remote)</li>
 </ul>
 
 <h1>📚 Education and courses</h1>
 <ul>
-<li>Saratov State University, Bachelor, faculty of Computer science and information technologies, specialty: Software and administration of information systems</li>
-<li>English courses, EPAM Systems</li>
-<li>NodeJs Global Mentoring Program, EPAM Systems</li>
+  <li>Saratov State University, Bachelor, faculty of Computer science and information technologies, specialty: Software and administration of information systems</li>
+  <li>English courses, EPAM Systems</li>
+  <li>NodeJs Global Mentoring Program, EPAM Systems</li>
 </ul>
-<!---
-dmitriimokienko/dmitriimokienko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
