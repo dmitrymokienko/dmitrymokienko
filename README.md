@@ -1,5 +1,5 @@
 <h1>About me</h1>
-Engineer with 8 years of experience in commercial software development. Strong expertise in JavaScript, TypeScript, React, and building scalable applications with clean architecture. Comfortable starting new applications from scratch and maintaining legacy systems. Proven ability to modernize outdated codebases and transition to new technologies with minimal business disruption. Experience in backend development with Express.js, NestJS and PHP. Contributed to a high-growth startup (YC S21) and several large enterprise fintech platforms.
+Engineer with 8 years of experience in commercial software development. Strong expertise in JavaScript, TypeScript, React, and building scalable applications with clean architecture. Comfortable starting new applications from scratch and maintaining legacy systems. Proven ability to modernize outdated codebases and transition to new technologies with minimal business disruption. Experience in backend development with Express.js, NestJS, and PHP. Pioneer in integrating AI-driven workflows, custom MCP tools, and LLM harnessing into production development pipelines. Contributed to a high-growth startup (YC S21) and several large enterprise fintech platforms.
 
 <h1>🛠️ Dev Stack</h1>
 
@@ -15,6 +15,13 @@ Engineer with 8 years of experience in commercial software development. Strong e
   <li><b>UI & Design Systems:</b> TailwindUI, Shadcn, Material UI, Mantine, Ant Design, rc-* components, @tanstack/table</li>
 </ul>
 
+<h2>🤖 AI-Driven Engineering & Harnessing</h2>
+<ul>
+  <li><b>AI Environments & Tooling:</b> Cursor, GitHub Copilot, Kimi, Cloude code, Antigravity</li>
+  <li><b>Agentic Architecture & Infrastructure:</b> Project Harnessing, Model Context Protocol (MCP), Custom Skills, Hooks, System Instructions & Roles</li>
+  <li><b>Context & Prompt Engineering:</b> Codebase Indexing, Call-Graph Analysis for LLMs, Deterministic Guardrails, Prompt Design</li>
+</ul>
+
 <h2>🧱 Backend & Infrastructure</h2>
 <ul>
   <li><b>Languages:</b> JavaScript, TypeScript, PHP</li>
@@ -23,11 +30,6 @@ Engineer with 8 years of experience in commercial software development. Strong e
   <li><b>API:</b> REST, WebSocket, WebRTC</li>
   <li><b>Auth:</b> NextAuth, BetterAuth, Passport, OAuth2</li>
   <li><b>DevOps:</b> Docker, Compose, Nginx</li>
-</ul>
-
-<h2>📦 Open Source & Packages</h2>
-<ul>
-  <li><a href="https://www.npmjs.com/package/chronicle-of-worlds"><b>chronicle-of-worlds</b></a> — FSD call-graph and symbol indexing CLI/MCP tools that optimize LLM context for agentic development</li>
 </ul>
 
 <h2>🧰 Tooling & Quality</h2>
@@ -40,15 +42,19 @@ Engineer with 8 years of experience in commercial software development. Strong e
   <li><b>Testing:</b> Jest, Vitest, Testing Library, Enzyme, Playwright, Storybook</li>
 </ul>
 
+<h2>📦 Open Source & Packages</h2>
+<ul>
+  <li><a href="https://www.npmjs.com/package/chronicle-of-worlds"><b>chronicle-of-worlds</b></a> — FSD call-graph and symbol indexing CLI/MCP tools that optimize LLM context for agentic development</li>
+</ul>
+
 <h2>🚀 Emerging & Interests</h2>
 <ul>
-  <li><b>AI & Prompt Engineering:</b> GH Copilot, Gemini, MCP, LLM prompt design, LLM automatization</li>
-  <li><b>My interests:</b> TanStack ecosystem, meta-frameworks, architectural approaches, AI, deep dive into the backend & infrastructure</li>
+  <li><b>Tech Interests:</b> TanStack ecosystem, meta-frameworks, software architecture, agentic workflows, custom tooling for AI</li>
 </ul>
 
 <h1>💻 Work experience</h1>
 <ul>
-  <li><i>Jun 2017 - Jul 2020</i> <b>Epam Systems</b> (Russia, Saratov)</li>
+  <li><i>Jun 2017 - Jul 2020</i> <b>EPAM Systems</b> (Russia, Saratov)</li>
   <li><i>Jul 2020 - Apr 2021</i> <b>Usetech</b> (Russia, Moscow - remote)</li>
   <li><i>May 2021 - May 2022</i> <b>Luxoft</b> (Russia, Moscow - remote)</li>
   <li><i>Apr 2022 - Oct 2024</i> <b>Maroo Inc.</b> (US, New York - remote)</li>
@@ -57,7 +63,7 @@ Engineer with 8 years of experience in commercial software development. Strong e
 
 <h1>📚 Education and courses</h1>
 <ul>
-  <li>Saratov State University, Bachelor, faculty of Computer science and information technologies, specialty: Software and administration of information systems</li>
+  <li>Saratov State University, Bachelor, Faculty of Computer Science and Information Technologies, Specialty: Software and administration of information systems</li>
   <li>English courses, EPAM Systems</li>
-  <li>NodeJs Global Mentoring Program, EPAM Systems</li>
+  <li>NodeJS Global Mentoring Program, EPAM Systems</li>
 </ul>
