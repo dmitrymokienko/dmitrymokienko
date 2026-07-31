@@ -3,6 +3,14 @@ Engineer with 8 years of experience in commercial software development. Strong e
 
 <h1>🛠️ Dev Stack</h1>
 
+<h2>🤖 AI-Driven Engineering & Harnessing</h2>
+<ul>
+  <li><b>AI Environments & Tooling:</b> Cursor, GitHub Copilot, Kimi, Claude code, Antigravity, Hermes</li>
+  <li><b>Agentic Architecture & Infrastructure:</b> Project Harnessing, MCP, Custom Skills, Hooks, System Instructions & Roles</li>
+  <li><b>Loop Engineering & Workflows:</b> Agentic Feedback Loops, Self-Correction Loops, Test/Lint-Driven AI Workflows, Autonomous Execution Pipelines</li>
+  <li><b>Context & Prompt Engineering:</b> Codebase Indexing, Call-Graph Analysis for LLMs, Deterministic Guardrails, Prompt Design</li>
+</ul>
+
 <h2>🎨 Frontend Engineering</h2>
 <ul>
   <li><b>Languages & Markup:</b> JavaScript, TypeScript, HTML (Handlebars, Pug, etc)</li>
@@ -13,14 +21,6 @@ Engineer with 8 years of experience in commercial software development. Strong e
   <li><b>Routing:</b> React Router, @tanstack/router</li>
   <li><b>Internationalization:</b> React-i18next, next-intl, react-intl</li>
   <li><b>UI & Design Systems:</b> TailwindUI, Shadcn, Material UI, Mantine, Ant Design, rc-* components, @tanstack/table</li>
-</ul>
-
-<h2>🤖 AI-Driven Engineering & Harnessing</h2>
-<ul>
-  <li><b>AI Environments & Tooling:</b> Cursor, GitHub Copilot, Kimi, Claude code, Antigravity, Hermes</li>
-  <li><b>Agentic Architecture & Infrastructure:</b> Project Harnessing, MCP, Custom Skills, Hooks, System Instructions & Roles</li>
-  <li><b>Loop Engineering & Workflows:</b> Agentic Feedback Loops, Self-Correction Loops, Test/Lint-Driven AI Workflows, Autonomous Execution Pipelines</li>
-  <li><b>Context & Prompt Engineering:</b> Codebase Indexing, Call-Graph Analysis for LLMs, Deterministic Guardrails, Prompt Design</li>
 </ul>
 
 <h2>🧱 Backend & Infrastructure</h2>
