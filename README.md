@@ -3,7 +3,7 @@ Engineer with 8 years of experience in commercial software development. Strong e
 
 <h1>🛠️ Dev Stack</h1>
 
-<h2>🤖 AI-Driven Engineering & Harnessing</h2>
+<h2>🤖 AI-Driven Engineering</h2>
 <ul>
   <li><b>AI Environments & Tooling:</b> Cursor, GitHub Copilot, Kimi, Claude code, Antigravity, Hermes</li>
   <li><b>Agentic Architecture & Infrastructure:</b> Project Harnessing, MCP, Custom Skills, Hooks, System Instructions & Roles</li>
